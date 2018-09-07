@@ -4,14 +4,21 @@ library('ape')
 library('ggplot2')
 library('ggtree')
 
+langs <- read.delim('languages.tsv', header=TRUE, stringsAsFactors=FALSE)
+
 tree <- read.beast("sinotibetan-beast-covarion-relaxed-fbd.trees")
 
 tree@data['rposterior'] <- sprintf("%0.2f", as.numeric(tree@data[['posterior']]))
 tree@data['rposterior'][tree@data['rposterior'] == 'NA',] <- NA
 
+# RENAME TIPS
+langs[langs$NAMEA == 'MikirKarbi', ]$NAMEA <- 'Karbi'
+langs[langs$NAMEA == 'KochRabha', ]$NAMEA <- 'Rabha'
+rownames(langs) <- sub("_", "", langs$NAMEA)
+tree@phylo$tip.label <- langs[tree@phylo$tip.label, ]$NAMEB
+
 cls <- list(
     Chepang=c("ChepangChepang"),
-    Jingpho=c("JingphoJingpho"),
     Kiranti=c(
         "KirantiBahing", "KirantiBantawa", "KirantiHayu",
         "KirantiKhaling", "KirantiKulung", "KirantiLimbu", "KirantiThulung"
@@ -20,7 +27,7 @@ cls <- list(
         "ChinHakha", "MizoLushai", "NagaUkhrul",
         "Karbi" # = 30 - Mikir
     ),
-    Sal=c("GaroGaro", "Rabha"),
+    Sal=c("GaroGaro", "Rabha", "JingphoJingpho"),
     Sinitic=c(
         "SiniticBeijing", "SiniticChaozhou", "SiniticLonggang",
         "SiniticOldChinese",
@@ -43,10 +50,15 @@ cls <- list(
     )
 )
 
+# CONVERT TIP LABELS
+for (clade in names(cls)) {
+    cls[[clade]] <- langs[cls[[clade]], ]$NAMEB
+}
+
+
 colors <- c(
     "#333333", # ??
     "#AECDE1", # Chepang
-    "#333333", # Jingpho
     "#3A78AF", # Kiranti
     "#BBDD93", # Kuki-Karbi
     "#559D3F", # Sal
@@ -65,8 +77,6 @@ tree <- groupOTU(tree, cls, overlap="origin", connect=FALSE)
 stopifnot(
     setdiff(tree@phylo$tip.label, unlist(cls, use.names=FALSE)) == 0
 )
-
-
 
 
 
@@ -91,7 +101,8 @@ for (clade in names(cls)) {
         cat(paste(clade, m, col_idx, colors[col_idx]), "\n")
         p <- p + geom_cladelabel(
             node=m, label=clade, color=colors[col_idx],
-            offset.text=0.3,
+            offset.text=0.5,
+            extend=1,
             offset=3.5, barsize=2
         )
     }
@@ -125,6 +136,7 @@ for (clade in names(cls)) {
         p <- p + geom_cladelabel(
             node=m, label=clade, color=colors[col_idx],
             offset.text=0.3,
+            extend=0.5,
             offset=3.5, barsize=2
         )
     }
