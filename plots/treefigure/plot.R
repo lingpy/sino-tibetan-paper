@@ -50,6 +50,13 @@ cls <- list(
     )
 )
 
+#Lower subgroupings could be useful in the case of Tibeto-Dulong: have sub-bars (on the left
+                                                                                of #"Tibeto-Dulong") corresponding to Lolo-Burmese (from Maru to Lisu), Macro-Rgyalrongic
+#(from Daofu to Zhaba) and Tibetic (from Lhase Tibetan to Old Tibetan).
+
+
+
+
 # CONVERT TIP LABELS
 for (clade in names(cls)) {
     cls[[clade]] <- langs[cls[[clade]], ]$NAMEB
