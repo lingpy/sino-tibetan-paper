@@ -1,0 +1,51 @@
+NUMBER	NAME	SUBGROUP	NAMEA	NAMEB	GLOTTOLOG	LON	LAT	SOURCE
+31	Motuo_Menba	Bodic	BodicTshangla	Tshangla	tsha1245	95.340883	29.325414	Huang1992,Hill2017
+9	Achang_Longchuan	Burmish	BurmishAchang	Achang	acha1249	97.89503	24.466605	Huang1992,Hill2017
+10	Atsi	Burmish	BurmishAtsi	Atsi	zaiw1241	97.806689	24.193367	Huang1992,Hill2017
+26	Bola	Burmish	BurmishBola	Bola	pela1242	98.234243	24.405004	Huang1992,Hill2017
+11	Lashi	Burmish	BurmishLashi	Lashi	lash1243	98.311333	24.111512	Huang1992,Hill2017
+22	Maru	Burmish	BurmishMaru	Maru	maru1249	99.83	24.939981	Huang1992,Hill2017
+25	Old_Burmese	Burmish	BurmishOld_Burmese	Old Burmese	oldb1235	97.126742	21.624974	Hill2017
+27	Rangoon	Burmish	BurmishRangoon	Rangoon Burmese	nucl1310	96.190785	16.874207	Huang1992,Hill2017
+5	Xiandao	Burmish	BurmishXiandao	Xiandao	xian1249	97.753173	24.494153	Huang1992,Hill2017
+14	Chepang	Chepang	ChepangChepang	Chepang	chep1245	84.908801	27.785164	Caughley2000
+35	Hakha_Chin	Chin	ChinHakha	Hakha	haka1240	92.820021	22.870089	VanBik2014
+30	Darang_Taraon	Deng	DengDarangTaraon	Darang Taraon	diga1241	97.469136	28.657986	Huang1992
+23	Yidu	Deng	DengYidu	Yidu	idum1241	95.650179	29.448172	Huang1992
+16	Garo	Garo	GaroGaro	Garo	garo1247	90.333226	25.504744	Burling2003
+44	Jingpho	Jingpho	JingphoJingpho	Jingpho	jing1260	97.329866	25.461826	Huang1992
+37	Wobzi_Khroskyabs	rGyalrong	KhroskyabsWobzi	Wobzi Khroskyabs	eree1240	101.427999	31.62758	Lai2017
+2	Bahing	Kiranti	KirantiBahing	Bahing	bahi1252	86.430334	27.309472	Michailovsky1989
+7	Bantawa	Kiranti	KirantiBantawa	Bantawa	bant1281	87.049995	27.117894	Jongens2009
+1	Hayu	Kiranti	KirantiHayu	Hayu	wayu1241	86.099009	27.302102	Michailovsky1989a
+20	Khaling	Kiranti	KirantiKhaling	Khaling	khal1275	87.510016	27.390595	Jacques2017FN
+8	Kulung	Kiranti	KirantiKulung	Kulung	kulu1253	86.910944	27.690037	Tolsma1999
+12	Limbu	Kiranti	KirantiLimbu	Limbu	limb1266	87.889909	27.272065	Jacques2017FN
+18	Thulung	Kiranti	KirantiThulung	Thulung	thul1246	87.609608	27.534944	Allen1975
+49	Rabha	Koch	KochRabha	Rabha	rabh1238	91.170064	25.820135	Joseph2007
+40	Lisu	Loloish	LoloishLisu	Lisu	lisu1250	98.848486	25.950046	Huang1992
+50	Mikir	Mikir	MikirKarbi	Karbi (Mikir)	karb1241	93.050494	25.735084	Walker1925,KonnerthFC,GruessnerNoDate
+13	Lushai	Mizo	MizoLushai	Mizo (Lushai)	lush1249	92.629457	22.60535	Lorrain1940
+3	Ukhrul	Naga	NagaUkhrul	Ukhrul	ukhr1238	94.37045	25.092617	Mortensen2012
+39	Dulong	Nungic	NungicDulong	Dulong	drun1238	98.691868	27.749017	Huang1992
+38	Zhaba_Daofu_County	Qiangic	QiangicZhaba	Zhaba	zhab1238	101.058397	30.538892	Huang1992
+36	Daofu	rGyalrong	rGyalrongDaofu	Daofu rGyalrong	horp1240	101.123742	30.975281	Huang1992
+42	Japhug	rGyalrong	rGyalrongJaphug	Japhug	japh1234	101.957636	32.207076	Jacques2015b
+47	rGyalrong_Maerkang	rGyalrong	rGyalrongMaerkang	Maerkang rGyalrong	situ1238	102.295293	31.868614	Huang1992
+32	Beijing	Sinitic	SiniticBeijing	Beijing Chinese	beij1235	116.397422	39.909056	Lai2017FN
+15	Chaozhou	Sinitic	SiniticChaozhou	Chaozhou Chinese	chao1238	116.622317	23.657699	Lai2017FN
+33	Guangzhou	Sinitic	SiniticGuangzhou	Guangzhou Chinese	guan1279	113.258099	23.131111	Lai2017FN
+24	Jieyang	Sinitic	SiniticJieyang	Jieyang Chinese	chao1239	116.373013	23.551122	Lai2017FN
+19	Longgang	Sinitic	SiniticLonggang	Longgang Chinese	hakk1236	114.243825	22.725545	Lai2017FN
+34	Old_Chinese	Sinitic	SiniticOld_Chinese	Old Chinese	oldc1244	108.777868	34.101745	Baxter2014
+21	Xingning	Sinitic	SiniticXingning	Xingning	hakk1236	115.732382	24.13674	Lai2017FN
+48	Tangut	Tangut	Tangut	Tangut	tang1334	106.285383	38.477453	Li1997
+43	Bokar	Tani	TaniBokar	Bokar Tani	boka1249	93.15717	27.554547	Huang1992
+17	Tibetan_Alike	Tibetan	TibetanAlike	Alike Tibetan	amdo1237	92.839938	38.318508	Huang1992
+45	Tibetan_Batang	Tibetan	TibetanBatang	Batang Tibetan	kham1282	99.111944	30.00795	Huang1992
+46	Tibetan_Lhasa	Tibetan	TibetanLhasa	Lhasa Tibetan	utsa1239	91.171493	29.653441	Huang1992
+28	Old_Tibetan	Tibetan	TibetanOldTibetan	Old Tibetan	clas1254	91.158704	30.027852	Huang1992
+41	Tibetan_Xiahe	Tibetan	TibetanXiahe	Xiahe Tibetan	amdo1237	102.524979	35.210549	Huang1992
+4	Rongpo	Tibeto-Kinauri	TibetoKinauriRongpo	Rongpo	rong1264	79.569987	30.530044	Sharma2003
+29	Bunan	Tibeto-Kinauri	TibetoKinauriBunan	Bunan	gahr1239	77.076283	32.554766	Widmer2014
+6	Byangsi	Tibeto-Kinauri	TibetoKinauriByangsi	Byangsi	byan1241	80.22309	29.583838	Sharma2003a
