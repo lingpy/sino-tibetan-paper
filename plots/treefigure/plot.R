@@ -116,7 +116,7 @@ stopifnot(
 # FIGURE -- tree with gray branches
 p <- ggtree(tree, ladderize=TRUE, color="#333333", size=1.2)
 p <- revts(p)
-p <- p + geom_tiplab(align=TRUE, linesize=.5, offset=0.2)
+p <- p + geom_tiplab(align=TRUE, linesize=.5)
 p <- p + geom_label(
     aes(label=rposterior), label.size=0.2, na.rm=TRUE, size=2,
     nudge_x=-0.2, nudge_y=0
