@@ -1,12 +1,23 @@
+#!/usr/bin/env Rscript
+
 #library(devtools)
 #install_git("https://github.com/GuangchuangYu/ggtree.git")
 library('ape')
 library('ggplot2')
 library('ggtree')
 
+args <- commandArgs(trailingOnly=TRUE)
+# check for -h or --help
+if ((length(args) == 0) || (any(grep("^(--help|-h)$", args))))
+{
+    cat("usage: ./plot.r treefile", sep="\n")
+    quit("no", 1)
+}
+
+
 langs <- read.delim('languages.tsv', header=TRUE, stringsAsFactors=FALSE)
 
-tree <- read.beast("sinotibetan-beast-covarion-relaxed-fbd.trees")
+tree <- read.beast(args[[1]])
 
 tree@data['rposterior'] <- sprintf("%0.2f", as.numeric(tree@data[['posterior']]))
 tree@data['rposterior'][tree@data['rposterior'] == 'NA',] <- NA
@@ -63,6 +74,7 @@ for (clade in names(cls)) {
 }
 
 
+# Old Palette
 colors <- c(
     "#333333", # ??
     "#AECDE1", # Chepang
@@ -74,6 +86,20 @@ colors <- c(
     "#F4C07B", # Tibeto-Dulong
     "#EF8532", # Tshangla
     "#C6B4D3" # West-Himalayish
+)
+
+# New Palette
+colors <- c(
+    "#333333", # ??
+    "#385972", # Chepang
+    "#679C50", # Kiranti
+    "#8384B3", # Kuki-Karbi
+    "#B85D6E", # Sal
+    "#AA6D97", # Sinitic
+    "#278B6A", # Tani-Yidu
+    "#F7A54F", # Tibeto-Dulong
+    "#0C7479", # Tshangla
+    "#AEA63D"  # West-Himalayish
 )
 
 
@@ -88,9 +114,9 @@ stopifnot(
 
 
 # FIGURE -- tree with gray branches
-p <- ggtree(tree, ladderize=TRUE, color="#333333")
+p <- ggtree(tree, ladderize=TRUE, color="#333333", size=1.2)
 p <- revts(p)
-p <- p + geom_tiplab(align=TRUE, linesize=.5)
+p <- p + geom_tiplab(align=TRUE, linesize=.5, offset=0.2)
 p <- p + geom_label(
     aes(label=rposterior), label.size=0.2, na.rm=TRUE, size=2,
     nudge_x=-0.2, nudge_y=0
@@ -109,7 +135,7 @@ for (clade in names(cls)) {
         p <- p + geom_cladelabel(
             node=m, label=clade, color=colors[col_idx],
             offset.text=0.5,
-            extend=1,
+            extend=0.4,
             offset=3.5, barsize=2
         )
     }
@@ -123,7 +149,7 @@ ggsave('tree-plain-tips.pdf', p, width=8, height=16)
 
 # FIGURE -- tree with colored branches
 
-p <- ggtree(tree, aes(color=group), ladderize=TRUE)
+p <- ggtree(tree, aes(color=group), ladderize=TRUE, size=1.2)
 p <- revts(p)
 p <- p + geom_tiplab(align=TRUE, linesize=.5)
 p <- p + geom_label(
@@ -138,12 +164,12 @@ p <- p + scale_x_continuous(breaks = seq(-9, 0, by = 1), limits=c(-8.0, 6.0))
 col_idx = 2  # start with two as index 1 is the gray non-grouped branches
 for (clade in names(cls)) {
     m <- MRCA(tree, cls[[clade]])
+    cat(paste(clade, col_idx, colors[col_idx]), "\n")
     if (!is.null(m)) {
-        cat(paste(clade, m, col_idx, colors[col_idx]), "\n")
         p <- p + geom_cladelabel(
             node=m, label=clade, color=colors[col_idx],
             offset.text=0.3,
-            extend=0.5,
+            extend=0.4,
             offset=3.5, barsize=2
         )
     }
