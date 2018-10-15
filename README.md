@@ -2,14 +2,35 @@
 
 ## Overview
 
-this is something like our table of content, we can convert this document later on via pandoc, so we can list references as @AuthorYear inline and convert to DOC and PDF and latex with a bibtex file.
+This repository offers both source code and data for the analyses that were carried out for the paper "Dated language phylogenies shed light on the ancestry of Sino-Tibetan". 
 
-## Linguistic Data and Code for Data-Curation and Conversion
+## Software Requirements
 
-* Mattis will describe the linguistic data here, and in which format it appears
-* this will include a table of the languages and a table of the concepts and a link to a fresh EDICOTR setup (file-based)
+We assume that you have a fresh and unbroken python3 installation on your computer. We tested all Python code for versions 3.5 and 3.7. Please contact us if you find that it does not work for any other Python versions. 
 
-## Data and Code for Phylogenetic Experiments
+We also assume that you have a running version of TraitLab (Version +++) and Beast2 (Version +++) along with dependencies XXX installed.
 
-* here, Valentin and Robin are free to add their description and additional experiments
+
+## Preparing Nexus Files from Linguistic Data
+
+Our lexical data is curated with help of the `lexibank` repository for linguistic datasets. To use obtain the data and convert it to the required formats with help of Python scripts, all you have to do is to `cd` into the folder `LexicalData` and type:
+
+```
+$ pip install -r pip-requirements.txt
+```
+
+Once this has been done, you can then type:
+
+```
+$ python to-nexus.py
+```
+
+This will use `lingpy` (http://lingpy.org) and the `lexibank` curation code to obtain the data from the repository and convert it to the nexus format. 
+
+If you want to inspect the resulting wordlist of 180 concepts, we recommend to open the file `data/sino-tibetan-sublist.tsv` with help of the EDICTOR tool.
+
+## Carrying out TraitLab and Beast2 Analyses
+
+
+
 
