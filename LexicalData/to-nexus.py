@@ -2,11 +2,12 @@ from lingpy import *
 from lingpy.convert.strings import write_nexus
 from lexibank_jacquesst import Dataset
 import json
+from lingpy.convert.cldf import from_cldf
 
 # load data into wordlist
 ds = Dataset()
-wl = Wordlist(ds.raw.posix('sino-tibetan-cleaned.tsv'))
-
+wl = Wordlist(ds.raw.joinpath('sino-tibetan-edited.tsv'))
+wl.renumber('cogid', 'cogid', override=True)
 # load the data
 data = json.load(open(ds.raw.posix('data.json')))
 
