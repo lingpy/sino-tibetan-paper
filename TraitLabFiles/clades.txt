@@ -1,0 +1,44 @@
+# This file contains the clades necessary for the TraitLab analysis. Copy-paste this block at the end of the relevant .nex file.
+
+BEGIN CLADES;
+
+CLADE NAME=Tangut
+ROOTMIN=800 ROOTMAX=1000
+TAXA=Tangut;
+
+
+CLADE NAME=Old_Tibetan
+ROOTMIN=1198 ROOTMAX=1200
+TAXA=TibetanOldTibetan;
+
+CLADE Name=Modern_Tibetan
+ROOTMIN= 1 ROOTMAX=1200
+TAXA=TibetanBatang, TibetanAlike,  TibetanLhasa, TibetanXiahe;
+
+CLADE Name=All_Tibetan
+ROOTMIN= 1200 ROOTMAX=1202
+TAXA=TibetanBatang, TibetanAlike,  TibetanLhasa, TibetanXiahe, TibetanOldTibetan;
+
+CLADE NAME=Old_Burmese
+ROOTMIN=798 ROOTMAX=800
+TAXA=BurmishOldBurmese;
+
+
+CLADE NAME=All_Burmese
+ROOTMIN=800 ROOTMAX=802
+TAXA=BurmishOldBurmese, BurmishRangoon;
+
+CLADE NAME=Modern_Chinese
+ROOTMIN=2000 ROOTMAX=2200
+TAXA=SiniticBeijing, SiniticChaozhou, SiniticGuangzhou, SiniticJieyang, SiniticLonggang, SiniticXingning;
+
+
+CLADE NAME=Old_Chinese
+ROOTMIN=2498 ROOTMAX=2500
+Taxa=SiniticOldChinese;
+
+CLADE NAME=All_Chinese
+ROOTMIN=2500 ROOTMAX=2502
+TAXA=SiniticBeijing, SiniticChaozhou, SiniticGuangzhou, SiniticJieyang, SiniticLonggang, SiniticXingning, SiniticOldChinese;
+
+END;
