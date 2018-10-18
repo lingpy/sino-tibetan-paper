@@ -6,7 +6,7 @@ subgrouping <- list()
 subgrouping['Van Driem (1997)'] = '((Kuki,Chin),((Bodo,Garo),Jingpho,Konyak),(((Tibetan,Kiranti),Sinitic),(((Burmish,Loloish),Karenic),Qiangic)));'
 subgrouping['Matisoff (1978)'] = '(((((Kuki,Chin),(Bodo,Garo),Jingpho,Konyak)),(Tibetan,Kiranti),Qiangic,(Burmish,Loloish),Karenic),Sinitic);'
 subgrouping['Thurgood (2003)'] = '(((Kuki,Chin),(Kiranti,Qiangic),Tibetan,Karenic,(Burmish,Loloish),((Bodo,Garo),Konyak,Jingpho)),Sinitic);'
-subgrouping['Blench (2005)'] = '((Kuki,Chin),(Kiranti,(Karenic,(((Bodo,Garo),Jingpho,Konyak),((Sinitic,(Loloish,Burmish),Tibetic),Qiangic)))));'
+subgrouping['Blench and Post (2014)'] = '((Kuki,Chin),(Kiranti,(Karenic,(((Bodo,Garo),Jingpho,Konyak),((Sinitic,(Loloish,Burmish),Tibetic),Qiangic)))));'
 subgrouping['Fallen Leaves'] = '((Kuki,Chin),Kiranti,Karenic,((Bodo,Garo),Konyak),Jingpho,Sinitic,(Loloish,Burmish),Tibetic,Qiangic);'
 subgrouping['Peiros (1998)'] = '((((Burmish,Loloish),Qiangic),Tibetic,(Kuki,Chin),Karenic),Kiranti,(Bodo,Garo),Konyak,Jingpho,Sinitic);'
 
