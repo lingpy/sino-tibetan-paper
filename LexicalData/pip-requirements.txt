@@ -1,1 +1,1 @@
--e git+https://github.com/lexibank/jacquesst.git#egg=jacquesst-0.1.0.alpha
+-e git+https://github.com/lexibank/sagartst.git#egg=sagartst-1.0.0
