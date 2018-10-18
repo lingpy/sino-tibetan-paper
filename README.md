@@ -29,8 +29,11 @@ This will use `lingpy` (http://lingpy.org) and the `lexibank` curation code to o
 
 If you want to inspect the resulting wordlist of 180 concepts, we recommend to open the file `data/sino-tibetan-sublist.tsv` with help of the EDICTOR tool.
 
-## Carrying out TraitLab and Beast2 Analyses
+## Phylogenetic Analysis
 
+### TraitLab
 
+### Beast
 
+To analyse these data in [BEAST2](http://www.beast2.org/), use the files in [the BeastFiles](./BeastFiles) directory. You will need BEAST2 > v2.40, with the [BEASTLabs (v.1.7.1)](https://github.com/BEAST2-Dev/BEASTLabs) and [Sampled Ancestors (v1.1.7)](https://github.com/CompEvol/sampled-ancestors) packages installed.
 
