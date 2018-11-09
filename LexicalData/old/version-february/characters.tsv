@@ -1,0 +1,547 @@
+Number	Segment	BIPA	Frequency	Example	Languages
+1	ə/r	r	1	Beijing	i e ³⁵ m ə/r n ⁰
+2	pp	pp	1	Limbu	s a pp o k
+3	ḭː	ḭː	1	Lashi	k j ḭː n ³¹
+4	ʌ‍		1	Khaling	l uː s ʌ‍ m
+5	aʔ		1	Hakha_Chin	hr aa t + hr aʔ
+6	⁶³		1	Guangzhou	j i n ⁶³ tʃʰ ɐ n ²¹
+7	jɵ		1	Thulung	th jɵ s
+8	i-		1	Rabha	m i- n i
+9	rs		1	Rongpo	tʃh o rs o
+10	³₃₅	³³⁵	1	Guangzhou	ts œ k ³₃₅
+11	l̥ˤ	l̥ˤ	1	Old_Chinese	l̥ˤ i n
+12	l-		1	Rabha	tʰ e l- tʰ e l
+13	²¹⁴₅₅		1	Beijing	tʂ ʅ ²¹⁴₅₅ tɕ i a ⁰
+14	ʔʷ	ʔʷ	1	Hayu	kʰ e ʔʷ a
+15	wjɨɨ		1	Tangut	k wjɨɨ r
+16	ks	ks	1	Kulung	m u ks i
+17	²¹₃₅͡		1	Guangzhou	ts y ⁵³ l ɔ ŋ ²¹₃₅͡
+18	ht		1	Hakha_Chin	hng e r ht e
+19	ɨ̣		1	Tangut	d j ɨ̣ j ²
+20	tcʰ	tcʰ	1	Limbu	j ɛ m b i tcʰ a
+21	tt	tt	1	Byangsi	m ə tt i
+22	ʦh		1	Khaling	ʦh ɛ b ɛ
+23	ɔ̄	ɔ̄	1	Khaling	k o ɔ̄ m
+24	i/r	r	1	Beijing	l u ⁵¹ ʂ u i/r ²¹⁴
+25	r0		1	Chepang	s j u r0
+26	ɑu	ɑu	1	Rangoon	tɕ ɑu ʔ ⁴
+27	†ɲ̇		1	Xiandao	†ɲ̇ o n ⁵⁵
+28	êː	êː	1	Khaling	kʰ l êː p
+29	ǒ	ǒ	1	Hakha_Chin	hl ǒ n + hl o n ʔ
+30	|t		1	Garo	g i t |t a m
+31	ʅ/r	r	1	Beijing	ʂ u ⁵³ tʂ ʅ/r ⁵⁵
+32	ˌ		1	Old_Tibetan	g s o d ˌ _ b s a d
+33	hdz		1	Tibetan_Xiahe	hdz o _ t o
+34	ụ		1	Tangut	l ụ ¹
+35	xʷ	xʷ	1	Hayu	xʷ aː m e n
+36	e-		1	Rabha	s e- l e k
+37	tʰi		1	Bunan	l a l a + tʰi r
+38	ôː	ôː	1	Khaling	p ôː
+39	ɿ/r	r	1	Beijing	tɕ i ⁵⁵ ts ɿ/r ²¹⁴
+40	pa		1	Old_Tibetan	g ɕ o g + pa
+41	kʷʰˤ	kʷʰˤ	1	Old_Chinese	kʷʰˤ e n ʔ
+42	\		1	Byangsi	m j \ ɛ
+43	ŋʷ	ŋʷ	1	Old_Chinese	ŋʷ a t
+44	yː	yː	1	Lashi	p yː ³³
+45	ɑ̰	ɑ̰	1	Lashi	p ɑ̰ ⁵⁵
+46	ij		1	Tangut	. j ij r
+47	ĩ̱	ĩ̠	1	Lisu	m i ³¹ _ h ĩ̱ ∼ ³³
+48	rʰ	rʰ	1	Rongpo	rʰ uː d ə
+49	ɩː		1	Hayu	d ɩː m ɿ n
+50	aà	aà	1	Hakha_Chin	v aà
+51	ɛ̰ː	ɛ̰ː	1	Lashi	n ɛ̰ː ⁵⁵
+52	³¹₁₁		1	Jieyang	ŋ i a u ³¹₃₅ tsʰ ɯ ³¹₁₁
+53	ě	ě	1	Hakha_Chin	s ê n + s ě n
+54	ŏ̰	ŏ̰	1	Atsi	p ŏ̰ ²¹ + k j ḛ k ⁵⁵
+55	⁶		1	Longgang	s i ³³ f u t ⁶ m u i ³²
+56	⁵⁵)		1	Guangzhou	ts y ⁵⁵ k ʊ ŋ ⁵⁵)
+57	ı̃		1	Rongpo	ʃ u ı̃
+58	ju		1	Tangut	ɕ ju
+59	îa	îa	1	Hakha_Chin	r îa l
+60	⁵³₁₁		1	Chaozhou	ŋ i o u ⁵³₃₅ tsʰ ɯ ⁵³₁₁
+61	pu		1	Old_Burmese	pu ◦ ch a c
+62	hni		1	Hakha_Chin	p a hni ʔ
+63	ɔ̀	ɔ̀	1	Byangsi	n ɔ ŋ k r ɔ̀
+64	ȶʃ	ȶʃ	1	rGyalrong_Maerkang	t ə _ ȶʃ i
+65	phʃ	pʰʃ	1	rGyalrong_Maerkang	t ə _ phʃ ᴇ
+66	ɾ	ɾ	1	Byangsi	j/dʒ a ɾ i
+67	̩		1	Limbu	kh a + ̩ n iː t t
+68	a-		1	Rabha	tʃ a- k l a
+69	tsʰʷ	tsʷʰ	1	Old_Tibetan	tsʰʷ a
+70	i_		1	Jingpho	t s i_ ʔ⁵⁵
+71	ŋ̩̩	ŋ̩	1	Guangzhou	ŋ̩̩ ²³
+72	ɴɢ	ɴɢ	1	Japhug	ɴɢ o ɕ n a
+73	⁵⁴₅₅ˌ		1	Longgang	tʰ a ŋ ⁵⁴₅₅ˌ t a u ³²
+74	uɑ̱	uɑ̠	1	Lisu	p o ³³ t ɕ uɑ̱ ³³
+75	u/r	r	1	Beijing	k u/r n ⁵¹
+76	fɕ		1	Wobzi_Khroskyabs	fɕ î
+77	n-		1	Rabha	a n- tʰ a m
+78	ɛ̂ː	ɛ̂ː	1	Khaling	p ɛ̂ː p
+79	pi		1	Tangut	pi e.
+80	ᴜ̃		1	Zhaba_Daofu_County	m a ³³ ◦ ʂ ts ᴜ̃ ∼ ⁵⁵ ◦ m a ³³
+81	oi	oi	1	Rabha	m e + x oi
+82	ṅh		1	Old_Burmese	ṅh a k
+83	hŋ		1	Hakha_Chin	hŋ ôo ŋ
+84	kʰˤ	kʰˤ	1	Old_Chinese	kʰˤ o ʔ
+85	ʣʰ	dzʰ	1	Khaling	ʣʰ e s
+86	t̺ʰ	t̺ʰ	1	Byangsi	t̺ʰ aː m o
+87	ɑ/r	r	1	Beijing	tɕ i ɑ/r o ²¹⁴
+88	ɖh	ɖh	1	Rongpo	ɖh aː n o
+89	bʲ	bʲ	1	Old_Tibetan	bʲ e m a
+90	á-		1	Rabha	h á- d u ŋ l a + d a
+91	ĭ	ĭ	1	Lashi	k j ĭ ²¹ + n ɔ ʔ ³¹
+92	o:	oː	1	Bokar	o + ŋ o:
+93	mañ		1	Old_Burmese	ʔ a ◦ mañ
+94	ûː	ûː	1	Khaling	t ûː b ʌ
+95	o/r	r	1	Beijing	n i ɑ o/r ²¹⁴
+96	ɑ̱̆	ɑ̠̆	1	Jingpho	k ɑ̱̆ ⁵⁵ ◦ ʒ a ⁵⁵
+97	ẹ		1	Tangut	b ẹ ¹
+98	uʔ		1	Hakha_Chin	th u p + th uʔ
+99	gʲ	gʲ	1	Old_Tibetan	b r gʲ a d
+100	ʈʰ	ʈʰ	1	Lushai	ʈʰ a
+101	nn		1	Rongpo	gh u nn ɔ
+102	²¹₃₃		1	Xingning	m i ²¹₃₃ p a ⁴⁵
+103	ŋ.		1	Garo	c h e ŋ. a
+104	²¹³	²¹³	1	Beijing	tʂʰ o u ²¹³
+105	kʰʲ	kʲʰ	1	Old_Tibetan	kʰʲ i
+106	ōi	ōi	1	Mikir	i ng d ōi
+107	tsʷ	tsʷ	1	Old_Tibetan	r tsʷ ← w a
+108	n̵		1	Thulung	n̵ ɵ
+109	ʔ⁵⁵		1	Jingpho	t s i_ ʔ⁵⁵
+110	ə.		1	Tangut	ts ə.
+111	ss		1	Rongpo	r ə ss i
+112	jwu.		1	Tangut	s jwu.
+113	ʉ̂ː	ʉ̂ː	1	Khaling	s ʉ̂ː
+114	ṁ		1	Old_Burmese	t o₂ ṅ ◦ p a ṁ
+115	mm		1	Byangsi	c/tʃ ı̀ mm o
+116	dʒʰ	dʒʰ	1	Chepang	dʒʰ j u ŋ
+117	'		1	Mikir	a r ' ē
+118	ʦʰ	tsʰ	1	Khaling	t a k ʦʰ u
+119	ns	ns	1	Wobzi_Khroskyabs	ns kʰ ɑ́ ɣ
+120	kʲ	kʲ	1	Old_Tibetan	s kʲ u g
+121	²²₃₅		1	Guangzhou	ts y ⁵³ j ø n ²²₃₅
+122	ɛ:	ɛː	1	Limbu	p ɛ: r ◦
+123	ɬʰ	ɬʰ	1	Daofu	f ɬʰ ə
+124	ŋʷˤ	ŋʷˤ	1	Old_Chinese	ŋʷˤ a t + s
+125	²³₃₅		1	Guangzhou	l o u ²³₃₅
+126	|tɕ		1	Bokar	b e + |tɕ o r
+127	jɨ.		1	Tangut	m jɨ.
+128	hng		1	Hakha_Chin	hng e r ht e
+129	ɔ̰ː	ɔ̰ː	1	Lashi	s ɔ̰ː ⁵⁵
+130	jwi		1	Tangut	l jwi
+131	kw	kʷ	1	Thulung	kw a l b a
+132	mʲ	mʲ	2	Old_Tibetan	d mʲ i g
+133	d̺	d̺	2	Byangsi	d̺ a ŋ tʰ e
+134	ndz	ndz	2	Tibetan_Xiahe	ndz ə n
+135	ps	ps	2	Limbu	kʰ ɛ ps ◦
+136	ùi	ùi	2	Mikir	i ng t ùi
+137	o.		2	Tangut	s o.
+138	ʊ̃ː	ʊ̃ː	2	Hayu	l ʊ̃ː pʰ ʊ
+139	âː	âː	2	Khaling	bh âː t ʌ
+140	ɲ̊	ɲ̊	2	Xiandao	ɲ̊ a p ⁵⁵
+141	ǒo	ǒo	2	Hakha_Chin	t òo y + t ǒo y
+142	bˤ	bˤ	2	Old_Chinese	C/ + bˤ r u k
+143	ı̀i		2	Hakha_Chin	ts ı̀i
+144	dzʰ	dzʰ	2	Bahing	dzʰ i s
+145	pˤ	pˤ	2	Old_Chinese	pˤ r e t
+146	ẽ̱	ẽ̠	2	Lisu	h ẽ̱ ∼ ³¹ ◦ kh i ³¹
+147	kk	kk	2	Rongpo	dh ə kk aː
+148	ɛ̂	ɛ̂	2	Khaling	s ɛ̂ l
+149	iɛ	iɛ	2	Lisu	e ⁵⁵ ph iɛ ³¹
+150	ʉː	ʉː	2	Thulung	ɖ ʉː ɖ ʉ
+151	xʐ		2	Achang_Longchuan	a ³¹ + xʐ o ʔ ⁵⁵
+152	ɛ̄	ɛ̄	2	Khaling	l ɛ̄ m
+153	ùu	ùu	2	Hakha_Chin	z ùu
+154	êe	êe	2	Hakha_Chin	n êe m + n ěe m
+155	qʰˤ	qʰˤ	2	Old_Chinese	qʰˤ o ʔ
+156	ɵ̂	ɵ̂	2	Khaling	k ɵ̂ m
+157	ìi	ìi	2	Hakha_Chin	k ìi
+158	⁵⁴₅₅		2	Longgang	pʰ i ⁵⁴₅₅ k ʊ ŋ ³³
+159	³⁵₁₁		2	Chaozhou	l a i ³⁵₁₁ p ɔ̃ ĩ ∼ ⁵⁵
+160	ɪ̃	ɪ̃	2	Lisu	h ɪ̃ ³³
+161	lʰ	lʰ	2	Tangut	lʰ j ị j ²
+162	ũː	ũː	2	Hayu	d ũː t i
+163	I		2	Hakha_Chin	r a m v a I h
+164	ʣ	dz	2	Khaling	ʣ ɵ ◦
+165	tr		2	Hakha_Chin	tr a p + tr a ʔ
+166	e.		2	Tangut	pi e.
+167	←	←	2	Old_Tibetan	r tsʷ ← w a
+168	ee	eː	2	Hakha_Chin	ʔ ee k
+169	qʷˤ	qʷˤ	2	Old_Chinese	qʷˤ r a
+170	uɑ	uɑ	2	Lisu	ŋ uɑ ⁵⁵
+171	uu	uː	2	Tangut	l uu
+172	àː	àː	2	Byangsi	ʃ j àː
+173	ĩː	ĩː	2	Hayu	p ĩː k u
+174	āː	āː	2	Khaling	s āː pʰ ʌ m
+175	qʷʰˤ	qʷʰˤ	2	Old_Chinese	qʷʰˤ ə j ʔ
+176	ʈʂ	ʈʂ	2	Beijing	ʈʂ i ⁵⁵ ʈʂ u ⁵⁵
+177	wu.		2	Tangut	t wu.
+178	ôo	ôo	2	Hakha_Chin	ph ôo
+179	wu		2	Tangut	ŋ wu
+180	au	au	2	Maru	l au k ³¹ ts a ŋ ³¹
+181	kʷˤ	kʷˤ	2	Old_Chinese	kʷˤ a ʔ
+182	m̥ˤ	m̥ˤ	2	Old_Chinese	m̥ˤ ə k
+183	jwɨ		2	Tangut	dz jwɨ
+184	jwo		2	Tangut	dʑ jwo w
+185	we		2	Tangut	kh we j
+186	ɨɨ	ɨː	2	Tangut	n j ɨɨ ²
+187	ʌː	ʌː	2	Thulung	b l ʌː
+188	əə	əː	2	Tangut	m əə ¹
+189	ɵ̂ː	ɵ̂ː	2	Khaling	s ɵ̂ː
+190	t̺	t̺	3	Byangsi	t̺ a ŋ d e
+191	ɚ	ə˞	3	Beijing	ɚ ⁵¹
+192	ĕ	ĕ	3	Atsi	n ĕ ²¹ + s e ²¹
+193	.		3	Old_Tibetan	ɴ d a b . m a
+194	ɕh		3	Zhaba_Daofu_County	ɕh ʌ ¹³
+195	iu	iu	3	Xingning	k i n ⁴⁵₃₅ tʰ iu ²¹
+196	ɛ̀	ɛ̀	3	Byangsi	s e r ɛ̀
+197	wa		3	Tangut	kh wa
+198	e:	eː	3	Kulung	g e: p a
+199	lˤ	lˤ	3	Old_Chinese	lˤ a t + s
+200	ɖʐ	ɖʐ	3	Daofu	ɖʐ o ŋ + ɖʐ o ŋ
+201	sˤ	sˤ	3	Old_Chinese	sˤ e + s
+202	dˤ	dˤ	3	Old_Chinese	k ə + dˤ o k + s
+203	èe	èe	3	Hakha_Chin	ts èe n + ts ěe n
+204	bʰ	bʰ	3	Rongpo	bʰ aː r i
+205	ûu	ûu	3	Hakha_Chin	r ûu l
+206	ı̂		3	Hakha_Chin	m ı̂ n
+207	²₅	²⁵	3	Chaozhou	pʰ a ʔ ²₅ l a ʔ ⁵
+208	ɢ	ɢ	3	Daofu	ɴ ɢ v ɛ
+209	jo		3	Tangut	dʑ jo
+210	gʰ	gʰ	3	Khaling	gʰ oɔ̄ l p ɛ
+211	ʊː	ʊː	3	Hayu	m ʊː l i
+212	mˤ	mˤ	3	Old_Chinese	mˤ r a j ʔ
+213	qˤ	qˤ	3	Old_Chinese	qˤ o k
+214	jaa		3	Tangut	m jaa
+215	⁴⁴	⁴⁴	3	Longgang	l ɔ ⁴⁴ s ɔ ⁵⁵
+216	u:	uː	3	Limbu	n u: r ◦
+217	ndʑ	ndʑ	3	Tibetan_Xiahe	ndʑ o
+218	ju.		3	Tangut	lh ju.
+219	ʈh	ʈh	3	Rongpo	aː ʈh
+220	ŋˤ	ŋˤ	3	Old_Chinese	C/ + ŋˤ a ʔ
+221	òo	òo	3	Hakha_Chin	t òo y + t ǒo y
+222	n̺	n̺	3	Byangsi	n̺ j aː
+223	mh/m̥	m̥	3	Chepang	tʃ j a mh/m̥
+224	oɔ̄	oɔ̄	3	Khaling	gʰ oɔ̄ l p ɛ
+225	ɯː	ɯː	3	Bokar	k ɯː
+226	mh	mh	3	Rongpo	mh i n
+227	thl		3	Hakha_Chin	thl ǎa
+228	ⁿdz	ⁿdz	3	Japhug	ⁿdz a
+229	ɶ	ɶ	3	Guangzhou	k ɶ k ³
+230	ǐ	ǐ	3	Hakha_Chin	d ì ŋ + d ǐ n
+231	ja.		3	Tangut	w ja.
+232	ǐi	ǐi	3	Hakha_Chin	hn ǐi m + hn i m ʔ
+233	a:	aː	3	Kulung	h a l a l a: p a
+234	tʰˤ	tʰˤ	3	Old_Chinese	tʰˤ u j
+235	ɔ̰̃	ɔ̰̃	3	Bola	m j ɔ̰̃ ∼ ⁵⁵
+236	dzʱ	dzʱ	4	Bantawa	m a dzʱ a n
+237	ja		4	Tangut	ts ja
+238	m̩	m̩	4	Darang_Taraon	ɑ ³¹ ◦ m̩ ⁵⁵
+239	ǔu	ǔu	4	Hakha_Chin	hm ǔu + hm u ʔ
+240	gˤ	gˤ	4	Old_Chinese	C/ ə + gˤ a n
+241	a.		4	Tangut	b i a.
+242	wə		4	Tangut	ɕ i wə
+243	oo	oː	4	Hakha_Chin	hn oo t + hn o ʔ
+244	c/tʃʰ	tʃʰ	4	Byangsi	p ə ʃ a k _ c/tʃʰ a m
+245	ɐ/r	r	4	Beijing	tɕʰ i ɐ n ³⁵ p i ɐ/r n ⁰
+246	ŋg	ŋg	4	Japhug	t ɤ ◦ ŋg ɯ m
+247	ɨ́	ɨ́	4	Rabha	m ɨ́ n
+248	ə̰ː	ə̰ː	4	Lashi	ʃ ə̰ː ŋ ³³
+249	dzh		4	Khaling	dzh i t
+250	ii	iː	4	Tangut	n j ii j ¹
+251	ññ		4	Old_Burmese	ññ a c ◦ p a t
+252	dʰ	dʰ	4	Khaling	dʰ o ŋ
+253	ei	ei	4	Hakha_Chin	aw rh l ei
+254	tsʰˤ	tsʰˤ	4	Old_Chinese	tsʰˤ u ʔ
+255	ōː	ōː	4	Khaling	dʰ ōː s ʌ m
+256	ᴀ	ɑ̟	4	Old_Chinese	t + qʰ ᴀ k
+257	n̩	n̩	4	Xiandao	n̩ ⁵⁵ + p u i ³¹
+258	ạ		4	Tangut	d ạ ²
+259	ȵ̥	ȵ̥	5	Tibetan_Alike	r ȵ̥ u k _ m æ
+260	β	β	5	Japhug	k ɯ β d e
+261	(		5	Chepang	ph e h + ( p a p )
+262	âw		5	Lushai	ŋ̊ âw ŋ
+263	ji.		5	Tangut	ʑ ji.
+264	ʲ		5	Old_Tibetan	b ʲ a
+265	⁵₂	⁵²	5	Chaozhou	ŋ u ɛ ʔ ⁵₂ n ĩ ɛ̃ ∼ ⁵⁵
+266	tː	tː	5	Bahing	h e tː
+267	ǔ	ǔ	5	Hakha_Chin	k ǔ m
+268	tˤ	tˤ	5	Old_Chinese	tˤ r a w k
+269	ñ	ɲ	5	Old_Burmese	p l a ñ ʔ
+270	ěe	ěe	5	Hakha_Chin	n êe m + n ěe m
+271	nˤ	nˤ	5	Old_Chinese	nˤ u p ← s
+272	gʱ	gʱ	5	Bantawa	gʱ ã s a
+273	jɨɨ		5	Tangut	l jɨɨ r
+274	a̰ː	a̰ː	5	Lashi	ŋ a̰ː p ⁵⁵
+275	tl		5	Hakha_Chin	tl âa ŋ
+276	oɔ	oɔ	5	Khaling	dh oɔ j p ɛ
+277	sh		6	Tibetan_Batang	sh ɑ ⁵⁵
+278	ɛ̰̃	ɛ̰̃	6	Bola	m ɛ̰̃ ∼ ³⁵
+279	⁴⁵₃₅		6	Xingning	tʂ ɑ ɔ ⁴⁵₃₅ ʂ ɿ n ²¹ tʰ i u ²¹
+280	cçh		6	rGyalrong_Maerkang	k ɑ _ cçh ɑ
+281	ndʐ	nɖʐ	6	Tibetan_Batang	ndʐ u ʔ ⁵³
+282	²¹⁴₃₅		6	Beijing	m a ²¹⁴₃₅ j i ²¹⁴
+283	-		6	Khaling	l ê l - m ʉ
+284	æ̂	æ̂	6	Wobzi_Khroskyabs	j n j æ̂ i
+285	ḛ	ḛ	6	Atsi	t ḛ ʔ ⁵⁵
+286	ṵː	ṵː	6	Lashi	tʃ ṵː ʔ ⁵⁵
+287	ʋ	ʋ	6	Beijing	ʋ a n ²¹⁴
+288	³¹₃₅		6	Jieyang	ts ã ĩ ∼ ³¹₃₅ k a ʔ ²
+289	ɑː	ɑː	6	Dulong	w ɑː ŋ ⁵³
+290	ɢʷ	ɢʷ	6	Old_Chinese	ɢʷ ə n
+291	)		6	Japhug	m c i pʰ ɯ t _ l ɤ t )
+292	ʔʲ	ʔʲ	6	Xingning	p a ʔʲ ²
+293	ị		6	Tangut	l j ị j ²
+294	ɕʰ	ɕʰ	6	Daofu	g a + ɕʰ a
+295	ɯ̱	ɯ̠	6	Lisu	l ɯ̱ ³¹
+296	hl		6	Hakha_Chin	hl âa + s ǎa + + s a k
+297	àa	àa	7	Hakha_Chin	n àa y + n ǎa y
+298	ɳ	ɳ	7	Rongpo	k ə n uː ɳ
+299	⁵³₃₅		7	Chaozhou	u ⁵³₃₅ m o ⁵⁵
+300	lh		7	Rongpo	lh e d ə
+301	ʌ̄	ʌ̄	7	Khaling	s ʌ̄ l p u
+302	ɔ̆	ɔ̆	7	Maru	ʃ ɔ̆ ³⁵ + p a k ³¹
+303	ɛː	ɛː	7	Lashi	v ɛː ³³
+304	jɨ		7	Tangut	l jɨ
+305	aa	aː	7	Hakha_Chin	hr aa t + hr aʔ
+306	ø̃	ø̃	7	Tibetan_Lhasa	l ø̃ ∼ ⁵⁵ ◦ p o ⁵⁵
+307	ù	ù	7	Hakha_Chin	l ù a + l u a k
+308	ỹ	ỹ	7	Tibetan_Lhasa	t ỹ ∼ ¹³
+309	hm		7	Hakha_Chin	hm ǔu + hm u ʔ
+310	ì	ì	7	Hakha_Chin	d ì ŋ + d ǐ n
+311	cçʰ	cçʰ	7	Daofu	p ə + cçʰ a
+312	ṃ	m̩	8	Old_Burmese	n a ṃ ◦ n a k
+313	bh	bh	8	Khaling	bh ɵ ŋ
+314	ô	ô	8	Wobzi_Khroskyabs	ŋ ô
+315	ı̀		8	Byangsi	c/tʃ ı̀
+316	tsˤ	tsˤ	8	Old_Chinese	s + tsˤ u
+317	mb	mb	8	Yidu	b ɯ ³¹ ◦ ɹ u ɑ ³⁵ ◦ mb o ⁵³
+318	ʈʂʰ	ʈʂʰ	8	Xiandao	n̥ i ³¹ + ʈʂʰ ɔ ³¹
+319	rˤ	rˤ	8	Old_Chinese	p rˤ a k + s
+320	n̥ʲ	n̥ʲ	8	Achang_Longchuan	n̥ʲ a ⁵⁵ + l u m ³¹
+321	ai	ai	8	Guangzhou	t ai ²² ŋ a ²¹
+322	j/dʒ	dʒ	8	Byangsi	m ɨ n j/dʒ e
+323	rh		8	Hakha_Chin	aw rh l ei
+324	îi	îi	8	Hakha_Chin	hr îi
+325	jii		8	Tangut	m jii j
+326	hr		8	Hakha_Chin	hr îi
+327	o₁		9	Old_Burmese	ʔ a ◦ t o₁ ṅ ḥ
+328	dʱ	dʱ	9	Bahing	dʱ ɛ k s i
+329	ə̰	ə̰	9	Lashi	s ə̰ k + j o ³¹
+330	a/r	r	9	Beijing	ji ²¹⁴₃₅ t u ɔ ²¹⁴₂₁ x u a/r ⁵⁵
+331	gh	gh	10	Rongpo	gh ə s _ l ə g aː
+332	ǽ	ǽ	10	Wobzi_Khroskyabs	l qʰ ǽ l
+333	əː	əː	10	Lashi	ʃ o ⁵⁵ + p əː ³¹
+334	o̰	o̰	10	Lashi	pʰ ə̆ ⁵⁵ + l o̰ u ³³
+335	hn		10	Hakha_Chin	hn ǎa r
+336	cç	cç	10	Tibetan_Alike	cç o k _ m æ
+337	ə́	ə́	10	Wobzi_Khroskyabs	s r ə́ m
+338	dh	dh	10	Rongpo	dh u w u
+339	bʱ	bʱ	10	Bantawa	bʱ e n
+340	ḭ	ḭ	10	Maru	ʃ ḭ k ⁵⁵
+341	i:	iː	10	Kulung	l i: tʃ i
+342	⁵⁵₁₁		10	Chaozhou	tʰ a u ⁵⁵₁₁ m ɔ ⁵⁵
+343	ɔː	ɔː	10	Lashi	n ɔː ʔ ³¹
+344	²¹₃₅		10	Guangzhou	j ɐ t ⁵ tʰ i u ²¹ j y ²¹₃₅
+345	nd	nd	11	Tibetan_Batang	nd a ¹³ ◦ ɣ ɑ ⁵⁵
+346	ŏ	ŏ	11	Atsi	ʃ ŏ ²¹ + p i k ²¹
+347	aw		11	Hakha_Chin	aw rh l ei
+348	ŋ̊	ŋ̊	11	Xiandao	ŋ̊ ɔ ʔ ⁵⁵
+349	ɮ	ɮ	11	Daofu	v ɮ e
+350	r̥	r̥	11	Lushai	r̥ i a m
+351	ɬ	ɬ	11	Daofu	ɬ ə + ɣ n ə
+352	ɖ	ɖ	11	Rongpo	ə n ɖ aː
+353	ò	ò	12	Byangsi	s ò
+354	e̱	e̠	12	Jingpho	n ³¹ ◦ t e̱ n ³³
+355	xh		12	Tibetan_Alike	xh a
+356	ʦ	ts	12	Khaling	t ʌ̄ m ʦ u
+357	ǝ	ə	13	Kulung	n ǝ p a
+358	ʈ	ʈ	13	Bunan	k u r k u ʈ i k
+359	é	é	13	Rabha	tʰ é
+360	ū	ū	13	Old_Burmese	th ū ḥ
+361	nh	nh	13	Rongpo	nh i m tʃ i
+362	ɘ	ɘ	13	Beijing	ts ɑ o ²¹⁴₂₁ tʂʰ ɘ n ³⁵
+363	ɽ	ɽ	13	Rongpo	p aː ɽ
+364	kˤ	kˤ	14	Old_Chinese	ɴ + kˤ r e p
+365	ǎa	ǎa	14	Hakha_Chin	n àa y + n ǎa y
+366	ẽ	ẽ	14	Maru	v ẽ ³⁵ + t u k ³¹
+367	ǎ	ǎ	14	Hakha_Chin	t à m + t ǎ m +
+368	dʒ	dʒ	14	Rongpo	dʒ ə ŋ ə l
+369	âa	âa	14	Hakha_Chin	tl âa ŋ
+370	cʰ	cʰ	14	Xiandao	cʰ i ⁵⁵
+371	ɔ:	ɔː	14	Kulung	tʃʰ ɔ: m a
+372	ɛ̰	ɛ̰	14	Maru	ŋ ɛ̰ ʔ ⁵⁵
+373	o₂		15	Old_Burmese	kh o₂ ṅ ḥ
+374	k͏ʰ		15	Bantawa	k͏ʰ i m
+375	m̥	m̥	15	Achang_Longchuan	m̥ ʐ a ŋ ⁵⁵
+376	c/tʃ	tʃ	15	Byangsi	t i n c/tʃ i
+377	tʂh		15	Tibetan_Lhasa	tʂh o ¹³ ◦ k o ⁵²
+378	tʃh		15	Rongpo	tʃh ɛ
+379	l̥	l̥	15	Xiandao	l̥ ɯ ŋ ³⁵
+380	qʰ	qʰ	15	Japhug	ɴ qʰ i
+381	ɑ̂	ɑ̂	16	Wobzi_Khroskyabs	dʑ ə dʑ ɑ̂
+382	nʲ	nʲ	16	Achang_Longchuan	tɕʰ i ³¹ + nʲ a ŋ ³⁵
+383	œ	œ	16	Bahing	n œ g a ts i
+384	ʅ	ʅ	16	Beijing	ʐ ʅ ɤ ⁵¹
+385	ɟ	ɟ	16	rGyalrong_Maerkang	ɟ j o
+386	ó	ó	16	Mikir	th ó r
+387	¹³²	¹³²	16	Tibetan_Lhasa	tɕ e ¹³²
+388	dʐ	ɖʐ	17	Motuo_Menba	dʐ o
+389	ç	ç	17	Xiandao	ç ɔ ⁵⁵
+390	ɑ̱	ɑ̠	17	Lisu	dʑ ɑ̱ ³³ ◦ g u̱ ³³
+391	ji		17	Beijing	ji ²¹⁴₃₅ t u ɔ ²¹⁴₂₁ x u a/r ⁵⁵
+392	⁵³₅₅		18	Guangzhou	s y ²² ts i ⁵³₅₅
+393	ɦ	ɦ	18	Yidu	i ⁵⁵ ◦ ɦ o ŋ ⁵⁵
+394	ō	ō	18	Mikir	th r ō k
+395	i̱	i̠	18	Jingpho	l ă ³¹ ◦ k j i̱ ŋ ³¹
+396	ui	ui	19	Mikir	ph u r ui
+397	è	è	19	Mikir	th è
+398	ē	ē	20	Mikir	m ē
+399	ɑ́	ɑ́	20	Wobzi_Khroskyabs	pʰ ɑ́
+400	⁵⁴	⁵⁴	20	Longgang	ŋ a ŋ ⁵⁴
+401	a̱	a̠	20	Jingpho	k a̱ n ³³
+402	²¹⁴₂₁		20	Beijing	ts ɑ o ²¹⁴₂₁ tɕʰ i ⁰
+403	ʒ	ʒ	20	Jingpho	k ɑ̱̆ ⁵⁵ ◦ ʒ a ⁵⁵
+404	ŋ̍	ŋ̍	20	Jieyang	k ŋ̍ ∼ ¹¹
+405	ɛ̱	ɛ̠	21	Lisu	n ɛ̱ ³¹ ◦ k u ɑ ³³
+406	í	í	21	Rabha	s í + x a m
+407	õ	õ	21	Rangoon	pʰ õ ∼ ²²
+408	î	î	21	Hakha_Chin	l î a ŋ
+409	eː	eː	21	Lashi	l eː ⁵⁵
+410	ī	ī	21	Mikir	ch i m ī
+411	²³¹	²³¹	21	Tibetan_Batang	ʐ a ²³¹
+412	ᴇ		21	rGyalrong_Maerkang	k ə _ w ᴇ k
+413	ṅ		22	Old_Burmese	ṅ ā
+414	tsh		22	Hakha_Chin	tsh àa + + tsh aa k
+415	ə̆	ə̆	22	Bola	pʰ ə̆ ³¹ + ɣ ɔ ʔ ³¹
+416	q	q	22	Daofu	q a + r v ɐ
+417	tθ	tθ	22	Rangoon	l ɛ ʔ ⁴ + tθ ɛ ⁵⁵
+418	ú	ú	22	Mikir	+ ph ú
+419	ê	ê	23	Hakha_Chin	s ê n + s ě n
+420	o̱	o̠	23	Jingpho	s i ŋ ³¹ ◦ k o̱ ³³
+421	ɛ̃	ɛ̃	23	Bola	t ɛ̃ ∼ ³⁵
+422	u̱	u̠	23	Jingpho	tʃ u̱ ʔ ⁵⁵ ◦ k ă ³¹ ◦ p a ŋ ³³
+423	à	à	24	Hakha_Chin	t à m + t ǎ m +
+424	tʂʰ	ʈʂʰ	25	Xingning	tʂʰ ʊ ŋ ²¹
+425	ɔ̰	ɔ̰	25	Maru	ŋ ɔ̰ ʔ ⁵⁵
+426	²³	²³	27	Guangzhou	l a ŋ ²³
+427	ɵ	ɵ	27	Khaling	p ɵ k
+428	ʉ	ʉ	27	Khaling	n ʉ s
+429	ã	ã	27	Rongpo	b ã s
+430	û	û	28	Hakha_Chin	f û ŋ
+431	ɑ̃	ɑ̃	29	Rangoon	p j ɑ̃ ∼ ²²
+432	ɴ	ɴ	29	Old_Tibetan	ɴ pʰ r u g
+433	ũ	ũ	30	Rongpo	s ũ ŋ ə r
+434	ṵ	ṵ	30	Atsi	m ṵ t ⁵⁵ + m a u ⁵⁵
+435	ɲ	ɲ	31	Bunan	ɲ a
+436	C/		31	Old_Chinese	C/ + n a n
+437	²⁴	²⁴	32	Xingning	ŋ a i ²⁴
+438	ʑ	ʑ	32	Achang_Longchuan	ʑ ɔ ŋ ³¹
+439	ā	ā	33	Mikir	a r j ā ng
+440	³²	³²	33	Longgang	ts a u ³²
+441	oː	oː	33	Tibetan_Lhasa	l oː ⁵⁵
+442	á	á	35	Rabha	tʃ á + kʰ a + tʰ o ŋ
+443	n̥	n̥	35	Zhaba_Daofu_County	n̥ ɛ ¹³
+444	sʰ	sʰ	36	Tibetan_Xiahe	sʰ o _ m a
+445	³	³	37	Guangzhou	p a t ³
+446	¹¹	¹¹	37	Chaozhou	t u a ¹¹
+447	tʃʰ	tʃʰ	37	Rongpo	m a tʃʰ a
+448	ø	ø	38	Bola	kʰ ø ʔ ³¹
+449	ɔ̃	ɔ̃	38	Rongpo	b aː ŋ ɔ̃
+450	tɕh		41	Motuo_Menba	tɕh i ŋ _ p a
+451	uː	uː	41	Byangsi	n uː d ɛ
+452	ə̂	ə̂	42	Wobzi_Khroskyabs	ʁ m ə̂
+453	⁵²	⁵²	43	Tibetan_Lhasa	j u ⁵²
+454	⁴⁵	⁴⁵	43	Xingning	m a n ⁴⁵
+455	â	â	45	Hakha_Chin	th â r + th ǎ r
+456	⁰	⁰	45	Beijing	ts ɑ o ²¹⁴₂₁ tɕʰ i ⁰
+457	¹	¹	47	Limbu	p u ¹
+458	dz	dz	48	Bunan	dz a ŋ i
+459	χ	χ	48	Tibetan_Xiahe	th a χ _ ȵ i
+460	²¹⁴	²¹⁴	50	Beijing	w ɔ ²¹⁴
+461	iː	iː	55	Bunan	ɕ iː
+462	æ	æ	55	Tibetan_Alike	r ə _ p æ
+463	⁴	⁴	55	Rangoon	l ɛ ʔ ⁴
+464	ʁ	ʁ	55	Japhug	ɲ a ʁ
+465	ɪ	ɪ	61	Tibetan_Batang	ʐ ɪ ²³¹
+466	ɿ	ɿ	62	Xiandao	ʂ ɿ ⁵⁵
+467	ɨ	ɨ	62	Byangsi	m ɨ n j/dʒ e
+468	ch	ch	64	Hakha_Chin	ch u i h
+469	ĩ	ĩ	66	Tibetan_Lhasa	ts ĩ ∼ ¹³
+470	ḥ		67	Old_Burmese	th ū ḥ
+471	ᴜ		67	Tibetan_Batang	ʐ ᴜ ¹³ ◦ p a ⁵³
+472	a̰	a̰	67	Bola	ŋ a̰ ʔ ⁵⁵
+473	ng	ng	71	Hakha_Chin	l e ng a h
+474	ă	ă	72	Jingpho	l ă ⁵⁵ ◦ t i ⁵¹
+475	f	f	73	Hakha_Chin	f a p a
+476	ʊ	ʊ	74	Guangzhou	t ʊ ŋ ³³
+477	tʂ	ʈʂ	76	Zhaba_Daofu_County	tʂ u ⁵⁵
+478	ɤ	ɤ	76	Japhug	t ɤ ◦ s e
+479	ʐ	ʐ	82	Tibetan_Batang	ʐ ᴜ ¹³ ◦ p a ⁵³
+480	tɕʰ	tɕʰ	82	Bunan	tɕʰ e j
+481	dʑ	dʑ	86	Old_Tibetan	m dʑ i ŋ + p a +
+482	⁵	⁵	86	Chaozhou	l e k ⁵
+483	ph	pʰ	88	Jingpho	k ă ³¹ ◦ ph a ʔ ³¹
+484	ʌ	ʌ	89	Khaling	tsʰ ʌ k p ɛ
+485	c	c	92	Tibetan_Lhasa	t a ¹³ _ c a ¹³²
+486	²²	²²	94	Rangoon	p j ɑ̃ ∼ ²²
+487	ʂ	ʂ	101	Xiandao	ʂ a ³¹
+488	⁵¹	⁵¹	104	Jingpho	l ă ⁵⁵ ◦ t i ⁵¹
+489	aː	aː	105	Byangsi	g u n d aː
+490	²	²	105	Tangut	n e r ²
+491	ɹ	ɹ	110	Darang_Taraon	t i ɯ ŋ ⁵⁵ ◦ k ɹ ɑ i ⁵⁵
+492	z	z	111	Hakha_Chin	z ùu
+493	ɣ	ɣ	115	Daofu	ɣ n ə
+494	ȵ	ȵ	115	Tibetan_Xiahe	h ȵ ə _ l a m
+495	x	x	116	Japhug	t ɯ ◦ x t u
+496	y	y	120	Hakha_Chin	n àa y + n ǎa y
+497	th	tʰ	125	Hakha_Chin	th â r + th ǎ r
+498	tʃ	tʃ	127	Jingpho	tʃ u̱ ʔ ⁵⁵ ◦ k ă ³¹ ◦ p a ŋ ³³
+499	kh	kʰ	131	Hakha_Chin	p a kh a t
+500	tɕ	tɕ	137	Bokar	n ə + tɕ e
+501	ɐ	ɐ	139	Daofu	q a + r v ɐ
+502	tsʰ	tsʰ	144	Bunan	tsʰ a
+503	ʃ	ʃ	146	Jingpho	ʃ u ʔ ³¹
+504	v	v	148	Hakha_Chin	v o k
+505	pʰ	pʰ	179	Motuo_Menba	pʰ o m
+506	ɕ	ɕ	186	Old_Tibetan	ɕ i ŋ + s d o ŋ
+507	¹³	¹³	196	Tibetan_Lhasa	t a ¹³ _ c a ¹³²
+508	tʰ	tʰ	240	Old_Tibetan	m tʰ o
+509	∼	∼	247	Tibetan_Lhasa	ts ĩ ∼ ¹³
+510	²¹	²¹	256	Atsi	ʃ ŏ ²¹ + p i k ²¹
+511	kʰ	kʰ	322	Old_Tibetan	kʰ a + b a
+512	h	h	327	Tibetan_Xiahe	h ȵ ə _ l a m
+513	ɯ	ɯ	343	Darang_Taraon	t i ɯ ŋ ⁵⁵ ◦ k ɹ ɑ i ⁵⁵
+514	w	w	351	Jingpho	w a ³³
+515	ts	ts	356	Hakha_Chin	ts ı̀i
+516	g	g	358	Old_Tibetan	s g o r + m o
+517	³⁵	³⁵	363	Lisu	k ɑ ³⁵
+518	ɔ	ɔ	384	Dulong	m i ⁵⁵ + tɕ ɔ ʔ ⁵⁵
+519	ɛ	ɛ	393	Xiandao	m ɛ t ⁵⁵
+520	d	d	400	Hakha_Chin	d i r
+521	⁵³	⁵³	454	Tibetan_Batang	d ɑ ʔ ⁵³
+522	b	b	483	Motuo_Menba	b e _ ts a
+523	³³	³³	537	Jingpho	p o ³³
+524	_	_	583	Tibetan_Xiahe	h ȵ ə _ l a m
+525	ʔ	ʔ	732	Jingpho	m j i ʔ ³¹
+526	ə	ə	747	Bokar	n ə + tɕ e
+527	ɑ	ɑ	780	Tibetan_Batang	d ɑ ʔ ⁵³
+528	e	e	857	Bokar	n ə + tɕ e
+529	j	j	904	Jingpho	m j i ʔ ³¹
+530	³¹	³¹	912	Jingpho	m j i ʔ ³¹
+531	◦	+	913	Jingpho	k ɑ̱̆ ⁵⁵ ◦ ʒ a ⁵⁵
+532	p	p	1035	Jingpho	p o ³³
+533	s	s	1066	Jingpho	s a i ³¹
+534	r	r	1088	Hakha_Chin	th â r + th ǎ r
+535	l	l	1121	Jingpho	l ă ⁵⁵ ◦ t i ⁵¹
+536	t	t	1215	Hakha_Chin	t à m + t ǎ m +
+537	n	n	1335	Jingpho	n a ³³
+538	o	o	1347	Jingpho	p o ³³
+539	+	+	1543	Hakha_Chin	t à m + t ǎ m +
+540	ŋ	ŋ	1574	Hakha_Chin	tl âa ŋ
+541	u	u	1689	Jingpho	n ³¹ ◦ k u p ³¹
+542	k	k	1749	Jingpho	k ɑ̱̆ ⁵⁵ ◦ ʒ a ⁵⁵
+543	m	m	1816	Hakha_Chin	t à m + t ǎ m +
+544	⁵⁵	⁵⁵	1882	Jingpho	k ɑ̱̆ ⁵⁵ ◦ ʒ a ⁵⁵
+545	i	i	2246	Jingpho	m j i ʔ ³¹
+546	a	a	3187	Jingpho	k ɑ̱̆ ⁵⁵ ◦ ʒ a ⁵⁵

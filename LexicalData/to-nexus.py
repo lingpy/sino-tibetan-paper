@@ -24,7 +24,7 @@ for idx, doculect, borrowing, concept in wl.iter_rows('doculect', 'borrowing', '
                 doculect).replace('_', '')
         # note that we have to whitelist two items that were later annotated as
         # borrowings but not in the version that we analysed from March 2018
-        if borrowing.strip() and idx not in [33076, 33526]:
+        if borrowing.strip():# and idx not in [33076, 33526]:
             C[idx] = maxcogs
             maxcogs += 1
         else:

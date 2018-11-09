@@ -1,0 +1,226 @@
+Number	Concept	Exclude	Coverage	Cognacy
+1	the fox	1	0.53	0.21
+2	the nit	1	0.57	0.19
+3	the wolf	1	0.57	0.28
+4	to marry (a man marries a woman)	1	0.57	0.49
+5	to sow (broadcast, scatter seeds)	1	0.62	0.47
+6	to knead	1	0.62	0.51
+7	the otter	1	0.66	0.15
+8	the ice	1	0.77	0.21
+9	to flow	1	0.77	0.47
+10	the shit	1	0.79	0.17
+11	thin (object)	1	0.79	0.43
+12	to forget	1	0.79	0.43
+13	to float	1	0.79	0.62
+14	horizontal	1	0.81	0.43
+15	to blow (of wind)	1	0.81	0.68
+16	the frost	1	0.83	0.23
+17	salty	1	0.83	0.28
+18	the hoof	1	0.83	0.32
+19	the lake	1	0.83	0.36
+20	to run	1	0.83	0.45
+21	the earthworm	1	0.83	0.53
+22	young	1	0.83	0.6
+23	hundred	1	0.85	0.11
+24	to smell (perceive odor) [transitive]	1	0.85	0.19
+25	below, under	1	0.85	0.43
+26	the rainbow	1	0.85	0.43
+27	to learn	1	0.85	0.45
+28	to know (something)	1	0.85	0.55
+29	the mosquito	1	0.85	0.62
+30	the armpit	1	0.85	0.62
+31	noon	1	0.85	0.64
+32	to lie down	1	0.85	0.66
+33	the sheep	1	0.87	0.34
+34	dark	1	0.87	0.38
+35	above	1	0.87	0.53
+36	nine		0.89	0.06
+37	six		0.89	0.09
+38	eight		0.89	0.11
+39	the horn (keratinized skin)		0.89	0.11
+40	seven		0.89	0.13
+41	the breast (female)		0.89	0.23
+42	the flea		0.89	0.28
+43	the feather		0.89	0.28
+44	early		0.89	0.38
+45	the belly		0.89	0.38
+46	the hail		0.89	0.4
+47	to plant (vegetals, rice)	1	0.89	0.4
+48	the snow		0.89	0.43
+49	the branch		0.89	0.43
+50	smooth	1	0.89	0.47
+51	the thigh		0.89	0.55
+52	narrow		0.89	0.57
+53	the blood		0.91	0.09
+54	the eye		0.91	0.09
+55	the hand		0.91	0.17
+56	the bone		0.91	0.23
+57	short		0.91	0.23
+58	ten		0.91	0.23
+59	the dust		0.91	0.3
+60	full		0.91	0.34
+61	the wing		0.91	0.36
+62	the front (front side)		0.91	0.38
+63	the fog	1	0.91	0.38
+64	middle		0.91	0.4
+65	to drink		0.91	0.4
+66	the egg		0.91	0.4
+67	the dew		0.91	0.43
+68	the mouth		0.91	0.55
+69	to bite		0.91	0.57
+70	he or she [third person singular]		0.91	0.6
+71	the mud		0.91	0.6
+72	dirty		0.91	0.66
+73	bad	1	0.91	0.81
+74	the sand		0.94	0.17
+75	the nose		0.94	0.21
+76	to laugh		0.94	0.23
+77	thou [second person singular]		0.94	0.26
+78	to eat		0.94	0.26
+79	the goat		0.94	0.34
+80	the earth (soil)		0.94	0.34
+81	to lick		0.94	0.38
+82	the forest		0.94	0.4
+83	thick		0.94	0.45
+84	the neck		0.94	0.47
+85	to chew		0.94	0.49
+86	to reside (live)		0.94	0.6
+87	round		0.94	0.6
+88	the stick		0.94	0.62
+89	to sing		0.94	0.68
+90	to pull	1	0.94	0.74
+91	to hold		0.94	0.81
+92	five		0.96	0.06
+93	the ear		0.96	0.09
+94	to die		0.96	0.17
+95	the body hair (hair or fur)	1	0.96	0.19
+96	the needle (for sewing)		0.96	0.23
+97	the tree		0.96	0.23
+98	the sky		0.96	0.26
+99	to steal		0.96	0.26
+100	the seed		0.96	0.3
+101	to fly (move through air)		0.96	0.3
+102	the rope		0.96	0.36
+103	to be alive		0.96	0.4
+104	left		0.96	0.4
+105	yellow		0.96	0.4
+106	green		0.96	0.43
+107	to dig		0.96	0.45
+108	to sleep		0.96	0.45
+109	the thunder		0.96	0.51
+110	old (of person)		0.96	0.51
+111	morning		0.96	0.51
+112	outside		0.96	0.55
+113	straight		0.96	0.6
+114	late		0.96	0.62
+115	to wipe		0.96	0.62
+116	the man (male human)		0.96	0.62
+117	to burn [intransitive]		0.96	0.64
+118	many		0.96	0.64
+119	to fight		0.96	0.68
+120	the spider		0.96	0.7
+121	to push		0.96	0.7
+122	to play		0.96	0.74
+123	three		0.98	0.02
+124	the dream		0.98	0.02
+125	the salt		0.98	0.11
+126	the moon		0.98	0.11
+127	I [first person singular]		0.98	0.11
+128	two		0.98	0.15
+129	the pig		0.98	0.19
+130	heavy		0.98	0.23
+131	the house		0.98	0.23
+132	the lung		0.98	0.23
+133	one		0.98	0.23
+134	light (of weight)		0.98	0.26
+135	the rain		0.98	0.26
+136	the frog		0.98	0.28
+137	to vomit		0.98	0.3
+138	the road		0.98	0.3
+139	the shoulder		0.98	0.3
+140	the skin		0.98	0.3
+141	to shoot (an arrow)		0.98	0.32
+142	the year		0.98	0.32
+143	to cry (weep)		0.98	0.32
+144	new		0.98	0.32
+145	the bamboo		0.98	0.36
+146	the knee		0.98	0.36
+147	inside		0.98	0.38
+148	high / tall		0.98	0.38
+149	to give		0.98	0.4
+150	red		0.98	0.45
+151	near		0.98	0.47
+152	the grass		0.98	0.49
+153	to see		0.98	0.51
+154	hard		0.98	0.51
+155	the lip (the lips)		0.98	0.51
+156	to hear		0.98	0.53
+157	to think (reflect)		0.98	0.53
+158	the woman		0.98	0.55
+159	dry		0.98	0.55
+160	to count		0.98	0.62
+161	today		0.98	0.64
+162	to spit		0.98	0.64
+163	the river	1	0.98	0.64
+164	to hunt		0.98	0.66
+165	to scratch		0.98	0.66
+166	to hide (conceal)		0.98	0.79
+167	to throw		0.98	0.81
+168	four		1	0.02
+169	the name		1	0.04
+170	the father	1	1	0.11
+171	the fish		1	0.11
+172	the louse		1	0.13
+173	the smoke		1	0.15
+174	the fire		1	0.17
+175	the flower		1	0.17
+176	the snake		1	0.19
+177	the liver		1	0.19
+178	the dog		1	0.21
+179	the tail		1	0.21
+180	the stone (a piece of)		1	0.21
+181	the meat		1	0.23
+182	to kill		1	0.26
+183	the sun		1	0.26
+184	the water		1	0.26
+185	the hair (of the head)		1	0.28
+186	the tooth (front)		1	0.28
+187	the star		1	0.3
+188	the tongue		1	0.3
+189	black		1	0.3
+190	the fruit		1	0.3
+191	the head		1	0.3
+192	the nail (fingernail or claw)		1	0.32
+193	the cloud		1	0.32
+194	to stand		1	0.32
+195	the heart		1	0.34
+196	white		1	0.36
+197	the mouse or rat		1	0.38
+198	the bird		1	0.38
+199	the mother	1	1	0.38
+200	the leaf		1	0.4
+201	the foot		1	0.4
+202	the wind		1	0.4
+203	right		1	0.4
+204	the son		1	0.43
+205	the tiger		1	0.43
+206	the ant		1	0.43
+207	to come		1	0.47
+208	to buy		1	0.47
+209	sharp		1	0.47
+210	who		1	0.49
+211	the mountain		1	0.49
+212	the root		1	0.49
+213	long		1	0.51
+214	the daughter	1	1	0.53
+215	big		1	0.53
+216	far		1	0.53
+217	small		1	0.55
+218	soft		1	0.55
+219	wet		1	0.55
+220	tomorrow		1	0.57
+221	hot		1	0.6
+222	cold (of temperature)		1	0.66
+223	to walk		1	0.66
+224	yesterday		1	0.68
+225	good		1	0.77

@@ -1,0 +1,181 @@
+Number	Concept	Exclude	Coverage	Cognacy
+1	six		0.88	0.08
+2	nine		0.88	0.08
+3	eight		0.88	0.12
+4	seven		0.88	0.16
+5	the flea		0.88	0.22
+6	ten		0.90	0.24
+7	the feather		0.90	0.30
+8	the hail		0.90	0.42
+9	early		0.90	0.44
+10	the branch		0.90	0.48
+11	the thigh		0.90	0.60
+12	narrow		0.90	0.60
+13	to smell (perceive odor) [transitive]		0.92	0.20
+14	full		0.92	0.34
+15	the front (front side)		0.92	0.38
+16	the wing		0.92	0.42
+17	the dew		0.92	0.44
+18	middle		0.92	0.46
+19	short		0.92	0.48
+20	the mud		0.92	0.60
+21	dirty		0.92	0.70
+22	five		0.94	0.04
+23	thou [second person singular]		0.94	0.22
+24	the sand		0.94	0.24
+25	the dust		0.94	0.34
+26	thick		0.94	0.40
+27	thin (object)		0.94	0.44
+28	the snow		0.94	0.46
+29	the earth (soil)		0.94	0.46
+30	to chew		0.94	0.48
+31	round		0.94	0.58
+32	he or she [third person singular]		0.94	0.62
+33	to reside (live)		0.94	0.62
+34	the stick		0.94	0.66
+35	to sing		0.94	0.68
+36	the ear		0.96	0.08
+37	the shit		0.96	0.20
+38	the tree		0.96	0.20
+39	the needle (for sewing)		0.96	0.22
+40	to steal		0.96	0.24
+41	the sky		0.96	0.30
+42	the seed		0.96	0.34
+43	the goat		0.96	0.38
+44	left		0.96	0.40
+45	yellow		0.96	0.40
+46	to forget		0.96	0.44
+47	green		0.96	0.44
+48	the rope		0.96	0.44
+49	to sleep		0.96	0.46
+50	sharp		0.96	0.48
+51	to dig		0.96	0.48
+52	old (of person)		0.96	0.50
+53	morning		0.96	0.56
+54	straight		0.96	0.60
+55	to wipe		0.96	0.60
+56	the man (male human)		0.96	0.62
+57	to burn [intransitive]		0.96	0.64
+58	late		0.96	0.64
+59	many		0.96	0.68
+60	to fight		0.96	0.70
+61	to push		0.96	0.72
+62	the spider		0.96	0.72
+63	to hold		0.96	0.84
+64	four		0.98	0.02
+65	three		0.98	0.02
+66	the dream		0.98	0.06
+67	the eye		0.98	0.10
+68	the moon		0.98	0.12
+69	the pig		0.98	0.12
+70	two		0.98	0.16
+71	the salt		0.98	0.18
+72	the horn (keratinized skin)		0.98	0.18
+73	the hand		0.98	0.20
+74	the house		0.98	0.24
+75	heavy		0.98	0.24
+76	light (of weight)		0.98	0.24
+77	the year		0.98	0.26
+78	the bone		0.98	0.26
+79	I [first person singular]		0.98	0.26
+80	the breast (female)		0.98	0.28
+81	the rain		0.98	0.28
+82	to vomit		0.98	0.28
+83	one		0.98	0.28
+84	the lung		0.98	0.28
+85	the road		0.98	0.32
+86	the frog		0.98	0.32
+87	to shoot (an arrow)		0.98	0.32
+88	new		0.98	0.34
+89	to cry (weep)		0.98	0.34
+90	to drink		0.98	0.36
+91	the skin		0.98	0.36
+92	high / tall		0.98	0.36
+93	the belly		0.98	0.36
+94	the bamboo		0.98	0.36
+95	the shoulder		0.98	0.38
+96	the knee		0.98	0.38
+97	the lip (the lips)		0.98	0.40
+98	to give		0.98	0.40
+99	red		0.98	0.44
+100	the forest		0.98	0.44
+101	inside		0.98	0.48
+102	the grass		0.98	0.48
+103	near		0.98	0.50
+104	to hear		0.98	0.52
+105	hard		0.98	0.52
+106	to think (reflect)		0.98	0.54
+107	the thunder		0.98	0.54
+108	dry		0.98	0.56
+109	to see		0.98	0.56
+110	the mouth		0.98	0.56
+111	outside		0.98	0.60
+112	to hunt		0.98	0.64
+113	to count		0.98	0.66
+114	the woman		0.98	0.66
+115	to bite		0.98	0.66
+116	to scratch		0.98	0.68
+117	to spit		0.98	0.70
+118	to play		0.98	0.76
+119	to throw		0.98	0.80
+120	to hide (conceal)		0.98	0.82
+121	the name		1.00	0.02
+122	the blood		1.00	0.10
+123	the louse		1.00	0.10
+124	the fish		1.00	0.12
+125	to die		1.00	0.16
+126	the liver		1.00	0.16
+127	the fire		1.00	0.16
+128	the smoke		1.00	0.16
+129	the snake		1.00	0.16
+130	the dog		1.00	0.20
+131	to eat		1.00	0.20
+132	the nose		1.00	0.20
+133	the fruit		1.00	0.22
+134	the tail		1.00	0.22
+135	to kill		1.00	0.24
+136	the flower		1.00	0.26
+137	the sun		1.00	0.26
+138	the tongue		1.00	0.26
+139	the water		1.00	0.26
+140	the meat		1.00	0.26
+141	the stone (a piece of)		1.00	0.28
+142	to stand		1.00	0.28
+143	the tooth (front)		1.00	0.30
+144	to laugh		1.00	0.30
+145	the hair (of the head)		1.00	0.30
+146	the nail (fingernail or claw)		1.00	0.32
+147	the heart		1.00	0.34
+148	the star		1.00	0.34
+149	to lick		1.00	0.34
+150	the mouse or rat		1.00	0.36
+151	black		1.00	0.36
+152	the egg		1.00	0.36
+153	the cloud		1.00	0.36
+154	the bird		1.00	0.38
+155	the son		1.00	0.38
+156	the leaf		1.00	0.40
+157	the wind		1.00	0.40
+158	white		1.00	0.40
+159	right		1.00	0.40
+160	the foot		1.00	0.42
+161	the head		1.00	0.42
+162	to come		1.00	0.42
+163	to be alive		1.00	0.44
+164	to buy		1.00	0.44
+165	the ant		1.00	0.46
+166	the neck		1.00	0.48
+167	who		1.00	0.48
+168	to fly (move through air)		1.00	0.52
+169	long		1.00	0.52
+170	far		1.00	0.52
+171	the root		1.00	0.54
+172	the mountain		1.00	0.54
+173	big		1.00	0.56
+174	small		1.00	0.58
+175	wet		1.00	0.58
+176	soft		1.00	0.58
+177	hot		1.00	0.62
+178	to walk		1.00	0.64
+179	cold (of temperature)		1.00	0.68
+180	good		1.00	0.76
