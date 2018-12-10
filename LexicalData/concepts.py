@@ -9,7 +9,8 @@ lists = [
         'Blust-2008-210',
         'Tadmor-2009-100',
         'Yakhontov-1991-100',
-        'Holman-2008-40'
+        'Holman-2008-40',
+        'SatterthwaitePhillips-2011-50'
         ]
 con = Concepticon()
 ds = [c['CONCEPTICON_ID'] for c in Dataset().concepts if float(c['Coverage'])
