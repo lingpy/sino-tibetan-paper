@@ -27,3 +27,15 @@ $ python statistics.py NAME_OF_DATA_FILE
 ```
 
 This will output various statistics on the coverage of the relevant dataset as well as the number of cognate sets.
+
+## Concept list comparison
+
+The script `concepts.py` provides the source code needed to compute a
+comparative statistic in comparison with our concept list of 180 items and
+lists proposed by other authors. To run it, type:
+
+```
+$ python concepts.py
+```
+
+
