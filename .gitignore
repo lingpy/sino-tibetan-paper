@@ -2,9 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+LexicalData/old/
+LexicalData/work/
 
 # C extensions
 *.so
+*.swp
 
 # Distribution / packaging
 .Python
