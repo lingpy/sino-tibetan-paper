@@ -1,0 +1,20 @@
+# List of languages included in the analysis of a subset of the data
+BurmishRangoon
+KhroskyabsWobzi
+TibetanBatang
+NungicDulong
+TibetoKinauriBunan
+KirantiKhaling
+TaniBokar
+BodicTshangla
+ChepangChepang
+Karbi
+SiniticGuangzhou
+Jingpho
+Tangut
+TibetanOldTibetan
+SiniticOldChinese
+BurmishOldBurmese
+LoloishLisu
+ChinHakha
+Rabha

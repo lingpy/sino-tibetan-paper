@@ -1,0 +1,9 @@
+#NEXUS 
+[Consensus Tree for /home/ryder/Dropbox/Sino-Tibetan/TraitLab output/tloutput-ST-short19-1.nex]
+
+BEGIN TREES;
+
+tree treename = [&R] ((SiniticOldChinese:2.3241,SiniticGuangzhou:2501.0025):4425.5699,(TibetoKinauriBunan:5874.519,(((TibetanBatang:1201.6248,TibetanOldTibetan:1.8752):3502.1731,((BodicTshangla:4345.0394,TaniBokar:4359.4251):808.7086,(NungicDulong:4707.1672,((LoloishLisu:2686.8789,(BurmishRangoon:800.9769,BurmishOldBurmese:2.3791):1885.902):1172.0588,(Tangut:1655.0399,KhroskyabsWobzi:2510.815):1348.1226):762.4217):557.0062):0):404.0445,(((ChinHakha:4028.4729,Karbi:4057.5214):754.3113,((JingphoJingpho:3832.0495,Rabha:3832.0495):1235.2903,ChepangChepang:4725.7698):0):517.8165,KirantiKhaling:5078.6497):435.325):296.3966):883.0846);
+
+END;
+
