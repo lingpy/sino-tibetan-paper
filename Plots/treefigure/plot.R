@@ -1,10 +1,20 @@
 #!/usr/bin/env Rscript
 
-#library(devtools)
+library(devtools)
 #install_git("https://github.com/GuangchuangYu/ggtree.git")
 library('ape')
 library('ggplot2')
 library('ggtree')
+library('tidytree')
+
+options(error=recover)
+options(show.error.locations=TRUE)
+
+# store version details because ggtree is rather flaky in
+# which versions of ggplot it needs
+sink('versions.txt')
+devtools::session_info()
+sink()
 
 args <- commandArgs(trailingOnly=TRUE)
 # check for -h or --help
@@ -13,6 +23,8 @@ if ((length(args) == 0) || (any(grep("^(--help|-h)$", args))))
     cat("usage: ./plot.r treefile", sep="\n")
     quit("no", 1)
 }
+
+
 
 
 langs <- read.delim('languages.tsv', header=TRUE, stringsAsFactors=FALSE)
@@ -128,7 +140,12 @@ p <- p + scale_x_continuous(breaks = seq(-9, 0, by = 1), limits=c(-8.0, 6.0))
 
 col_idx = 1
 for (clade in levels(attr(tree@phylo, 'group'))) {
-    m <- MRCA(tree, cls[[clade]])
+    print(paste("Labelling clade #", col_idx, '=', clade))
+
+    if (is.null(cls[[clade]])) next
+
+    #m <- MRCA(tree, cls[[clade]])
+    m <- ape::getMRCA(tree@phylo, cls[[clade]])
     if (!is.null(m)) {
         cat(paste(clade, m, col_idx, colors[col_idx]), "\n")
         p <- p + geom_cladelabel(
@@ -141,7 +158,7 @@ for (clade in levels(attr(tree@phylo, 'group'))) {
     col_idx <- col_idx + 1
 }
 
-ggsave('tree-plain-tips.pdf', p, width=8, height=16)
+ggsave('tree-plain-tips.pdf', p, width=8, height=12)
 
 
 
@@ -162,7 +179,9 @@ p <- p + scale_x_continuous(breaks = seq(-9, 0, by = 1), limits=c(-8.0, 6.0))
 
 col_idx = 1
 for (clade in levels(attr(tree@phylo, 'group'))) {
-    m <- MRCA(tree, cls[[clade]])
+    if (is.null(cls[[clade]])) next
+    m <- ape::getMRCA(tree@phylo, cls[[clade]])
+    #m <- MRCA(tree, cls[[clade]])
     if (!is.null(m)) {
         cat(paste(clade, m, col_idx, colors[col_idx]), "\n")
         p <- p + geom_cladelabel(
@@ -175,6 +194,6 @@ for (clade in levels(attr(tree@phylo, 'group'))) {
     col_idx <- col_idx + 1
 }
 
-ggsave('tree-colored-tips.pdf', p, width=8, height=16)
+ggsave('tree-colored-tips.pdf', p, width=8, height=12)
 
 
