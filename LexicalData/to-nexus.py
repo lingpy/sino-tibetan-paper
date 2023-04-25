@@ -2,33 +2,53 @@ from lingpy import *
 from lingpy.convert.strings import write_nexus
 from lexibank_sagartst import Dataset
 import json
-from lingpy.convert.cldf import from_cldf
+from lingpy.basic.wordlist import from_cldf
+from sys import argv
+
+TRACE_BOR = False
+if "borrowing" in argv:
+    TRACE_BOR = True
 
 # load data into wordlist
 ds = Dataset()
-wl = Wordlist(ds.raw.posix('sino-tibetan-cleaned.tsv'))
+wl = Wordlist(str(ds.raw_dir.joinpath('sino-tibetan-cleaned.tsv')))
 wl.renumber('cogid', 'cogid', override=True)
 # load the data
-data = json.load(open(ds.raw.posix('data.json')))
+data = json.load(open(str(ds.raw_dir.joinpath('data.json'))))
 
 # exclude borrowings
 D = {0: [h for h in wl.columns]}
 
 # retrieve the cognate sets
 C, maxcogs = {}, max(wl.get_etymdict(ref='cogid'))+1 
-for idx, doculect, borrowing, concept in wl.iter_rows('doculect', 'borrowing', 'concept'):
-    if concept in data['concepts']:
-        D[idx] = [h for h in wl[idx]]
-        D[idx][wl.header['doculect']] = data['taxa'].get(
-                doculect, 
-                doculect).replace('_', '')
-        # note that we have to whitelist two items that were later annotated as
-        # borrowings but not in the version that we analysed from March 2018
-        if borrowing.strip():# and idx not in [33076, 33526]:
-            C[idx] = maxcogs
-            maxcogs += 1
-        else:
-            C[idx] = wl[idx, 'cogid']
+if not TRACE_BOR:
+    for idx, doculect, borrowing, concept in wl.iter_rows('doculect', 'borrowing', 'concept'):
+        if concept in data['concepts']:
+            D[idx] = [h for h in wl[idx]]
+            D[idx][wl.header['doculect']] = data['taxa'].get(
+                    doculect, 
+                    doculect).replace('_', '')
+            # note that we have to whitelist two items that were later annotated as
+            # borrowings but not in the version that we analysed from March 2018
+            if borrowing.strip():# and idx not in [33076, 33526]:
+                C[idx] = maxcogs
+                maxcogs += 1
+            else:
+                C[idx] = wl[idx, 'cogid']
+
+else:
+    borrowings = []
+    for idx, doculect, borrowing, concept in wl.iter_rows("doculect",
+                                                          "borrowing",
+                                                          "concept"):
+        if concept in data["concepts"]:
+            D[idx] = [h for h in wl[idx]]
+            D[idx][wl.header['doculect']] = data['taxa'].get(
+                    doculect,
+                    doculect).replace("_", '')
+            if borrowing.strip():
+                borrowings += [idx]
+            C[idx] = wl[idx, "cogid"]
 
 wln = Wordlist(D)
 wln.add_entries('cognacy', C, lambda x: x)
@@ -59,5 +79,13 @@ nex = write_nexus(
         filename='data/sino-tibetan-traitlab.nex')
 print('[i] wrote traitlab')
 
+if TRACE_BOR:
+    with open("data/sino-tibetan-traitlab.nex", "a") as f:
+        for idx in borrowings:
+            f.write("[{0}:{1}:{2}:{3}]\n".format(
+                idx,
+                wln[idx, "cognacy"],
+                wln[idx, "concept"],
+                wln[idx, "doculect"]))
 
 
