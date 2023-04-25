@@ -1,0 +1,72 @@
+% Run parameters accompanying .nex and .txt file for TraitLab MCMC run on 13-Jul-2018 14:22:18
+
+% FULL PATH OF DATA FILE INCLUDE .NEX EXTENSION
+Data_file_name = /home/ubuntu/gitRepos/TraitLabSDLT/ST-50-180-train.nex
+
+% ONE OF THE FOLLOWING THREE OPTIONS MUST BE ONE, THE OTHERS 0
+Start_from_rand_tree = 1
+Start_from_tree_in_output = 0
+Start_from_true_tree = 0
+
+% VALUE OF THETA IGNORED UNLESS Start_from_rand_tree == 1
+Theta = 0.001000
+
+% NEXT TWO FIELDS IGNORED UNLESS Start_from_tree_in_output == 1
+% FULL PATH OF OLD OUTPUT FILE INCLUDE .NEX EXTENSION
+Tree_file_name = 
+Use_tree = 0
+
+Omit_taxa = 0
+% LIST IS IGNORED UNLESS Omit_taxa == 1 CAN USE MATLAB VECTOR NOTATION
+Omit_taxa_list =
+
+Omit_traits = 0
+% LIST IS IGNORED UNLESS Omit_traits == 1 CAN USE MATLAB VECTOR NOTATION
+Omit_trait_list =
+
+% ONE OF THE FOLLOWING TWO OPTIONS MUST BE 1, THE OTHER 0
+Yule_prior_on_tree = 0
+Flat_prior_on_tree = 1
+% ONE OF THE FOLLOWING TWO OPTIONS MUST BE 1, THE OTHER 0
+Uniform_prior_on_tree_topologies = 1
+Uniform_prior_on_labelled_histories = 0
+% FOLLOWING IS IGNORED UNLESS Flat_prior_on_tree == 1
+Max_root_age = 16000
+
+Vary_topology = 1
+Account_rare_traits = 0
+
+Impose_clades = 0
+% LIST IS IGNORED UNLESS Impose_clades == 1 CAN USE MATLAB VECTOR NOTATION
+Omit_clade_list =
+Omit_clade_ages_list =
+
+Vary_loss_rate = 1
+% FOLLOWING IS IGNORED WHEN Random_initial_loss_rate == 1
+Initial_loss_rate = 0.676422
+Random_initial_loss_rate = 1
+
+Include_catastrophes = 0
+% NEXT 6 LINES ARE IGNORED WHEN Include_catastrophes = 0
+% FOLLOWING IS IGNORED WHEN Random_initial_cat_death_prob = 1
+Initial_cat_death_prob = 0
+Random_initial_cat_death_prob = 0
+% FOLLOWING IS IGNORED WHEN Random_initial_cat_rate = 1
+Initial_cat_rate = 0
+Random_initial_cat_rate = 0
+
+Model_missing = 1
+
+Run_length = 1e+06
+Sample_interval = 1000
+
+Seed_random_numbers = 0
+% FOLLOWING IS IGNORED UNLESS Seed_random_numbers == 1
+With_seed = 0
+
+% OUTPUT FILE NAME OMITTING PATH AND ANY EXTENSIONS
+Output_file_name = ST-50-180-15-train-withLT-2
+% FULL PATH FOR DIRECTORY TO OUTPUT FILES
+Output_path_name = /home/ubuntu/gitRepos/TraitLabSDLT/
+
+%Gaps are treated as missing data. To change this, edit GlobalValues.m.
